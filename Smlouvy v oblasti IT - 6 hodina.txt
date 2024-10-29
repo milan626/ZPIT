@@ -1,0 +1,72 @@
+Smlouvy v oblasti informačních technologií
+
+smlouva obecně = právní jednání dvou či více stran - zpravidla dvoustranné
+	- vzniká při dohodě o podstatných náležitostech
+	- má podstaté náležitosti (bez nich smlouva nevznikne) - kdo, o čem, povinnosti obou stran = co má plnit, kdy to má plnit a za kolik
+		- je důležité aby strany byly označeny nezaměnitelně (PO aby měla i adresu a IČO), jedná za ní příslušný statutární orgánn
+		- předmět smlouvy - čeho se smlouva týká, co obě strany plní, někdy stanoveno i kdy se má začít/skončit, kdy to má mít nějaký milník....
+		- cena - lze stanovit různě (jednotkově, sumou, výčtem,, .....)
+
+	- a ostatní náležitosti 
+		- sankce v případě nevyplnění, případně podmínky odstoupení (nejsem se jistý jestli patří sem nebo do podstatných náležitostí)
+		- řešení sporu - průměrná délka soudního jednání je 4-5 let, proto existují alternativní možnsosti řešení sporu (mediace, rozhodčí řízení - rozhodnutí stejný důsledek 					jako rozhodnutí státního soudu - na to nutná smlouva)
+	
+	-způsoby uzavírání smluv:
+		- málokdy nabídka a uzavření ve stejném okamžiku a na stejném místě - uzavření proběhne po podepsání všemi stranami
+¨
+
+
+Zvláštnosti smluv v IT
+- liší se definicích termínů - nemívají ustálené definice
+- systémy a zakázky jsou velmi specifické = skoro v každé smlouvy část 1 na definování pojmů
+- počítačové programy jsou definovány jejich funkčnostmi/vlastnostmi = co ten program umí/neumí
+- problémová definice vady - obvykle vada v IT definována == "rozdíl mezi popsané a skutečné vlastností"
+- práce s nehmotnými médii/duševním vlastnictvím, autorským právem, 
+
+Typické smlouvy v IT
+Licenční smlouva
+	= svolení autora s limitovaným užitím díla - (skoro) neomezené užívání v dlouhodobém období 
+		- omezení licenční smlouvy:
+			- na počet uživatelů
+			- nekomereční použití (školní licence)
+			- územní - například pouze na území ČR - záleží na bydlišti
+			- co s programem smíme dělat - rozebírání programu
+	- uděluje se na různou dobu, maximálně jako literární dílo = 70 let po smrti posledního autora, pak se stává volně dostupným (vstupují do veřejného vlastnictví)
+	- není jednoduše převoditelná
+
+	- existují podlicenční smlouvy 	
+		- má licenci od hlavního licenciátu
+		- má právo poskytovat podlicence
+		- v případě zániku licenční smlouvy zanikají podlicenční 
+			- často bývá ujištění od hlavního licenciátu že v tom případě se podlicence stávají licencemi
+
+Implementační smlouva
+	- implementace = odborné nastavení zákaznických parametrů SW (..., proškolení, pilotní provoz)
+		- obsah implementace nutno výslovně stanovit
+
+Smlouva o dílo v IT
+ 	- zpravidla se jedná o vývoj SW na objednávku
+	- je podstatné podrobné popsání vlastností díla (čím podrobněji, tím lépe)
+	- zpravidla je součástí předání a převzetí (sepisuje se protokol) a zákazník si dělá přejímací testy	
+		- ty by také měli být správně popsány (např. časové odezvy)
+	- součástí bývá i tabulka chyb (mohou být děleny i na kategorie dle závažnosti)
+	- dobré je pojištění vůči bezdůvodnému odmítnutí - potřeba nastavení mechanismů
+
+Smlouva o dodávce systému
+	- kombinace kupní smlouvy na HW, poskytování služeb, smlouva o díla, implementační smlouva, licenční,  smlouva o testování a školení
+	- společné věci pro smlouvy se ošetří jednou v hlavní a dílčí náležitosti v jednotlivých podsmlouvách
+
+Smlouva o podpoře a údržbě
+	- podpora = udržování ve stavu souladném jazykově ke zbytku světa a v souladu s aktuálním daňovým a právnickým stavu
+			- podporování verze po nějakou dobu a jsou dodávány upgradované programy na nastavení aktuálních stavů
+	
+	- údržba = zákazník se předplácí odstraňování chyb - sazba za údržbu bývá okolo 17%
+		- u některých programů je údržba povinná
+
+TODO:
+
+Vytvoření smlouvy: Implementační, Smlouvy o dílo na vývoj SW,
+- nějaká IT smlouvy
+- napsat své jméno na jednu ze stran a poslat na maisner@martin-maisner.com
+- deadline do zápočtu
+

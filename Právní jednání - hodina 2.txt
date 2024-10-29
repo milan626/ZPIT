@@ -1,0 +1,109 @@
+Elektronické právní jednání
+
+Právní jednání = projev vůle člověka a to s právními důsledky
+ - dříve právní úkony = projev vůle člověka, které mají zejména právní důsledky (problém se zejména)
+ - důsledky vyjádřeny v úkonu nebo ze:
+	zákona
+	dobrých mravů (nedefinováno = zákon předpokládá, že všichni máme morální kompas)
+	zvkylostí = obecné zvyklosti v oboru, něco obvyklé hlavně v IT sféře (s implementací patří i instalace)
+
+- musí mít určité parametry = náležitosti:
+	a) subjektu = kdo to pr. jedn. činí, musí mít právní osobnost a být způsobilý a svépravný (FO a PO)
+		svéprávnost - lze omezit, u PO
+
+- právní jednání za PO (jednatelé, prokurista (zapsané v rejstříku), držitelé plné moci, zaměstnanci)
+		
+
+- projev vůle:
+	- musí být svobodná = bez hrozby násilí nebo bezprostředního násilí
+	- musí být projeveno navenek
+	- musí být určitý a srozumitelný (i třetí osoba ví o co se jedná), jinak problém s právními důsledky
+
+- vážnost jednání:
+	- učiněno-li žertem, ve filmu, … = neznamená platnost (chybí vážnost projevu vůle)
+
+- simulované právní jednání:
+	- jedno právní jednání zakrýváno jiným (dar zakrytí projevem - pokus o vyhnutí darovací dani)
+	- simulované neplatí, platí skryté (nutnost zaplacení darovací daně)
+
+- právní jednání omylem:
+	- nemá vliv na platnost
+
+- forma jednání = jakým způsobem k projevu dojde:
+	- ústně 
+	- písemně
+	- konání/nekonání
+	- zákonem předepsána pouze v některých případech (ústně - svatba)
+	
+- náležitost předmětu právního jednání:
+	- musí být objektivně možný
+	- musí být dovolený (není zakázané)
+	- nesmí odporovat dobrým mravům a veřejnému pořádku
+		- veřejný pořádek - není přesně definováno
+
+rozděluje podle kategorií:
+	- počet stran - jednostranné, vícestranné (1:N, M:N)
+	- kauzální - jednoho konkrétního předmětu (převod majetku)
+	- abstraktní - obecné (generální plná moc)
+	- adresované/neadresované (vůči sporu, osobě/ vyjedřuje se k situaci, statusu)
+	- mezi živými - všechyn ostatní
+	- pro případ smrti - závět
+	majetku
+	- úplatná - 
+	- bezúplatná - 
+	formální/neformální (je-li potřeba forma)
+	- nominátní = jedná se o smlouvu - právní jednání vysloveně popsáno v zákoně jako takové
+	- inominátní - vychází z občanského zákoníku, smlouva o čemkoliv (je-li to dovolené)
+
+právní jednáni mlčky = konkludentně
+
+absolutní neplatnost 
+	- nastává bez dalšího, úřady přihlíží z úřadní povinosti
+	- v rozporu s právem/dobrými mravy nebo plnění objektivně (vědecké hledisko) nemožné
+
+relativní neplatnost
+	- spočívá v závadě náležitostí právního jednání
+	- problém se svéprávnosti
+	- strany se musí dovolat (dodatečně namítnou)
+	- zásada zákona - je-li to na hraně, měla by být považováno za platné právní jednání
+		- je-li neplatné - nemá právní důsledky
+	- platí zásada oddělitelnosti právního jednání = lze zneplatnit pouze část
+	- lze zhojit právní jednání (Špatný podpis smlouvy, co chybí se dodá)
+
+zdánlivé právní jednání
+	- některá náležitost úplně chybí (jedná PO bez právnické osobnosti)
+
+neplatnost právního jednání = velký problém
+
+obsah právního jednání a jeho vliv záleží na jeho výkladu - závazný výklad má pouze soud
+při výkladu se postupuje:
+	1) obsahu - (nezáleží na nadpisu smlouvy, ale její obsahu)
+	2) úmyslu stran - relevantní pouze pokud o tom úmyslu věděla/měla vědět druhá strana
+			- děli se tak opakovaně v minulosti, bude se směrovat k tomu
+	3) obchodní zvyklosti - za různých okolností různé obvyklosti
+	4) dvojznačné znění - užije se výklad proti tvůrci obsahu (contra preferente)
+
+- existuje odlišný výklad mezi podnikateli a mezi spotřebitelem
+	a) mezi podnikateli - ten který o tom ví méně (kdo je v lepší situaci) je slabší stranou
+	b) podnikatel a spotřebitel - ochrana slabšího
+
+- nesrozumitelnost ve smlouvě - není-li to zásadní, tak se k tomu nepřihlíží
+
+
+
+ELEKTRONICKÉ PRÁVNÍ JEDNÁNÍ
+- liší se :
+	1) zpravidla distanční
+	2) využívá technické prostředky
+	3) náležitosti musí zůstat zachovány (subjekt, projev vůle, předmět, forma)
+		- subjekt musí být identifikovaný (řeknu: jsem Franta) a autentizovaný (ověření že jsem Franta)
+		- autentizace probíhá pomocí: hesla, potvrzení v rámci systému, 
+			- elektronický podpis (předpis EIDA 1):
+				- prostý (napíšu do mailu - pouze identifikace)
+				- zaručený elektronický podpis - v rámci svého počítače vytvořím něco
+				- uznávaný podpis - vytvořený certifikační autoritou
+				- kvalifikovaný podpis - vytvořen na základě certifikátu příslušnou autoritou, ani ten se nepovažuje z úředně ověřený podpis (snad někdy příště)
+
+- věnovat zvýšenou pozornost - relativní neplatnost lze pouze pokud dokážeme, že jsme to opravdu nebyli mi (asi??)
+- řada orgánů odmítá akceptovat elektronický podpis
+

@@ -1,0 +1,14 @@
+Spotřebitel = vystupuje bez IČA ()
+
+POdnikatel = vykonáváná podnikatelskou činnost za účelem zisku
+
+Závazek podnikatele ke spotřebteleli (závazek B2C)
+	- nerovnost stran - spotřebitel je slabší -> platí ochrana spotřebitele (upraveno v občanském zákoníku a zákonu o ochraně spotřebitele)
+	- nelze upravovat smlouvy
+
+Závazek mezi podnikateli (B2B)
+	- stává se, že jedna ze stran má výhodnější práva
+	- možnost upravovat podmínky smluv
+	
+
+Lze li obsah smlouvy vyložit různým způsobem, použije se výklad pro spotřebitele vhodnější
