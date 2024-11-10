@@ -1,0 +1,54 @@
+Distribuce softwaru
+- způsob jak se dostane od tvůrce k uživateli
+- cesta se děje prostřednictvím smlouvy:
+	Licenční smlouva	
+	- jejímž obsahem je, že autor uděluje uživateli právo užívat autorské dílo
+	- právo užívání je omezené
+		- uživatel může používat k nějakým účelům na nějakém území
+		- například nekomereční užívání (školní licence)
+		- omezení může být i časové	
+	- co uživatel nesmí:
+		- dále poskytovat neoprávněním osobám
+		- pozměňovat/upravovat program bez souhlasu autora
+		- disasemblovat program a zjišťovat jak funguje pro tvorbu vlastních programů
+	- teritoriální omezení:
+		- omezení na základě území
+	- počet uživatelů:
+		- například počet uživatelů, kteří pracují současně
+	- časově omezená licence	
+		- jeden rok, 3 roky, atd.
+	- někdy může být součástí i zdrojový kód, aby nevznikl vendor lock
+
+Užívání nelegálně získaných kopií
+	- dříve anarchie a byly téměř všude
+
+SAAS - software as a service
+	- přihlášení do aplikace a platí se za to, že tam chci něco provádět (platí se za využívání autorské dílo)
+	
+Někdy otevřením krabice uzavřeme smlouvu - ale podle českého práva musí o tom obě strany vědět
+
+Kdo může poskytovat licence:
+
+	- Autor
+
+	- Většinou autor pracuje pro vývojovou společnost 
+		- v tom případě má majetková práva softwarehouse, ale jako autoři jsou stále označeni programátoři
+		- při mimořádnému výdělku si programátoři mohou zažádat o dodatečné ohodnocení - rozhoduje soud
+
+	- Ten kdo má licenci a právo dávat sublicence
+		- v případě, že subdodavatel zanikne, tak zaniknou i všechny jeho sublicence
+			- většinou existuje klauzule, že v tomto případě se sublicence převedou na licence vůči hlavní společnosti
+
+
+Software nelze koupit a vlastnit ho
+	- Práva k SW jsou dvojího druhu
+		osobností: nepřeveditelná (právo být autorem, právo na integritu díla)
+		majetková: převoditelná, to co si kupujeme v rámci lic. smlouvy (právo na užívání, právo poskytovat podlicence)
+
+
+PS. Doba autorské ochrany je  70 let po smrti posledního ze spoluautorů
+	- U počítačových programů problémové určení všech spoluautorů
+
+TODO:
+Do 12.11 - maisner@martin-maisner.com
+Napsat licenční smlouvu, kde my budeme příjemce licence, omezení regionální, profesní na oblast (např. školní, není pro vojenské účely), časové, volbu práv (jeden musí být subjektem zahraničním asi dodavatel) a rozhodčí doložku
